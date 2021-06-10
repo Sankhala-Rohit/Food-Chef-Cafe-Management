@@ -1,5 +1,5 @@
 <?php 
-define('BASEURL','http://localhost:81/project/');
+define('BASEURL','http://localhost/project/');
 define('HOSTNAME','localhost');
 define('USERNAME','root');
 define('PASSWORD','');

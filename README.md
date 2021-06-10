@@ -38,3 +38,9 @@ Food Chef is a cafe and restaurant management website with both user and admin p
 ##  If you like my project hit a star button
 ##  Thank You. Have A Good Day.
 
+<a href="https://twitter.com/RohitSankhla13">
+  <img align="left" alt=" Rohit Sankhla | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/sankhala_rohit">
+  <img align="left" alt="Rohit Sankhala's Instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
